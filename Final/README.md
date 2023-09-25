@@ -8,7 +8,7 @@ I decided on this for my final project because I felt that it would help me lear
 
 ## How to Run
 To run the Brick Breaker game you will need to download the project folder and import it to your code editors workspace. After that's been done all that's left is to run the program since all the necessary files are already in the project folder. 
-[Image Caption](BrickBreakerScreen.png)
+[Game Image](BrickBreakerScreen.png)
 
 ## Code Example
 Shown below is an example of the code I used for the games collision. The collision was one of the more difficult aspects of this project since I had no prior knowledge of how to do collision, so it was a big step for me when I actually got it working.
